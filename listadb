@@ -1,0 +1,18 @@
+#...................................................................#
+#                                                                   #
+#  listadb 0.1 © 2012 Hector Alejandro Parada Blanco                #
+#  Debe ser ubicado en el directorio /home/tmp.                     #
+#                                                                   #
+#  Borre totalmente el contenido de este archivo, y en su lugar     #
+#  escriba los nombres de las bases de datos a salvaguardar         #
+#  separándolas por salto de línea.                                 #
+#  Ejemplo:                                                         #
+#                                                                   #
+#...................................................................#
+
+DATABASE1
+DATABASE2
+DATABASE3
+DATABASE4
+DATABASE5
+DATABASE6
